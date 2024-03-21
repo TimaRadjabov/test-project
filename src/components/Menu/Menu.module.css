@@ -1,0 +1,38 @@
+.menu {
+
+    background-color: #79bb7b7c;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  }
+  
+  .menu button {
+    margin-bottom: 5px;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .menu button:focus {
+    outline: none;
+  }
+  
+  .menu button:nth-child(1) {
+    background-color: rgba(196,30,58, 0.9);
+    color: #161616;
+  }
+  
+  .menu button:nth-child(2) {
+    background-color: rgba(172,225,175, 0.9);
+    color: #161616;
+  }
+  
+  .menu button:nth-child(3) {
+    background-color: rgba(93,118,203, 0.9);
+    color: #161616;
+  }
+  .menu button:nth-child(4) {
+    background-color: rgba( 28,28,28, 0.9);
+    color: #ececec;
+  }

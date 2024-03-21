@@ -1,0 +1,16 @@
+.wrapper {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  canvas {
+    border: 1px solid rgb(9, 62, 16);
+    background-color: rgb(17, 106, 17);
+    border-radius: 3px;
+  }
+  
+
+  
